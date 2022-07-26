@@ -4,7 +4,7 @@ Esse plugin utiliza a bibilioteca [sorald](https://github.com/SpoonLabs/sorald) 
 
 ## Utilização
 
-![Plugin de reparo automático na StackSpot](https://github.com/gustavopintozup/stk-dev-java/blob/main/repair-how-to.gif)
+![Plugin de reparo automático na StackSpot](repair-how-to.gif)
 
 Para utilizar esse plugin, você precisa primeiro ter o o `stk` da StackSpot funcionando no seu computador.
 
